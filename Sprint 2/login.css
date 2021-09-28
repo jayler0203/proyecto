@@ -1,0 +1,28 @@
+/*
+para absoluta mente todo
+{
+    box-sizing: border-box;
+    text-align: center;
+}*/
+
+body{
+    font-family: Montserrat semibold, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: rgb(85, 215, 255);
+    text-decoration: none;
+    padding:50px;
+}
+.login{
+    margin:20px auto;
+    width:80px;
+}
+.app_title{
+    text-align: center;
+}
+.control-group{
+    margin-bottom: 10px;
+
+}
+.login-form{
+    background-color: white;
+}
